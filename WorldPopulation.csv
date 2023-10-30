@@ -1,6 +1,4 @@
-"Country, territory or other area ","Population (estimated mid-year value, millions)",Region,ID,"source: https://www.un-ilibrary.org/content/books/9789210027137/read
-See the visualization on Information is Beautiful
-https://informationisbeautiful.net/visualizations/world-population/"
+"Country, territory or other area ","Population","Region","ID"
 Afghanistan,42.2,Central Asia,1,
 Albania,2.8,Europe,2,
 Algeria,45.6,Africa,3,
